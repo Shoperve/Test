@@ -21,7 +21,7 @@ public class azhome {
 	// Methods for all functions 
 	
 		public void searchfield(){
-			Search.sendKeys("computer");
+			Search.sendKeys("laptops");
 		}
 		public void searchicon(){
 			Searchicon.click();
